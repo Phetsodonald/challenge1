@@ -9,4 +9,4 @@ function isSixtyFive(num1,num2){
     }
 };
 
-module.exports = {isSixtyFive};
+module.exports = { isSixtyFive };

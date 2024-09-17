@@ -9,4 +9,4 @@ function longest(array){
     return firstString;
 }
 
-module.exports ={longest};
+module.exports ={ longest };

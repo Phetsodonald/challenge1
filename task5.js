@@ -11,4 +11,4 @@ function triangle(num){
     }
 }
 
-module.exports = {triangle};
+module.exports = { triangle };

@@ -9,4 +9,4 @@ function hasThree(num1,num2){
     }
 };
 
-module.exports = {hasThree};
+module.exports = { hasThree };

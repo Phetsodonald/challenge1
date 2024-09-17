@@ -11,4 +11,4 @@ function multiples(num){
     return sum
 }
 
-module.exports = {multiples};
+module.exports = { multiples };

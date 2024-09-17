@@ -3,4 +3,4 @@ function combine(array1,array2){
     return combinedList.sort();
 }
 
-module.exports = {combine};
+module.exports = { combine };

@@ -3,4 +3,4 @@ function square (num){
         console.log("#".repeat(num));
     }
 }
-module.exports = {square};
+module.exports = { square };
